@@ -30,7 +30,7 @@ Reema (Rainyuraa): Login & Sign-up Dashboard
 
 Jude (judedous): Receptionist Dashboard (Check in/Check out guests)
 
-Nematallah (MK-F105): Guest Dashboard (Reservation Details Section)
+Nematallah (MK-F105): Guest Dashboard (Reservation Details Section).
 
 Ghala (gigi1004): Admin Dashboard (Add/Remove Employees, Generate Employee Reports)
 
