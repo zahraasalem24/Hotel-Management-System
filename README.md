@@ -32,6 +32,6 @@ Jude (judedous): Receptionist Dashboard (Check in/Check out guests)
 
 Nematallah (MK-F105): Guest Dashboard (Reservation Details Section).
 
-Ghala (gigi1004): Admin Dashboard (Add/Remove Employees, Generate Employee Reports)
+Ghala (gigi1004): Admin Dashboard (Add/Remove Employees, Generate Employee Reports).
 
 Sahar (sahar2424): Guest Dashboard (Room Booking Section)
