@@ -26,7 +26,7 @@ The project was developed collaboratively, with responsibilities divided as foll
 
 Zahraa (zahraasalem24): Admin Dashboard (Add/Update Rooms, Generate Room Reports)
 
-Reema (Rainyuraa): Login & Sign-up Dashboard
+Reema (Rainyuraa): Login & Sign-up Dashboard.
 
 Jude (judedous): Receptionist Dashboard (Check in/Check out guests)
 
